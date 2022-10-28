@@ -1,0 +1,8 @@
+﻿  Main.cpp
+  lab1.cpp
+C:\Users\basil\Desktop\Laboratory\lab1.cpp(215,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab2.cpp
+C:\Users\basil\Desktop\Laboratory\lab2.cpp(152,16): warning C4101: 'usrNumber': unreferenced local variable
+  Generating Code...
+C:\Users\basil\Desktop\Laboratory\lab1.cpp(34): warning C4715: 'gcd': not all control paths return a value
+  Laboratory.vcxproj -> C:\Users\basil\Desktop\Laboratory\x64\Debug\Laboratory.exe
